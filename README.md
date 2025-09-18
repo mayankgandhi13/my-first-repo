@@ -1,4 +1,4 @@
-# Hi there 👋
+≈# Hi there 👋
 
 I'm **Mayank Gandhi**, a Master's student in Bioinformatics at Northeastern University.  
 Passionate about **computational biology, data science, and biotech innovation**.  
@@ -19,5 +19,5 @@ Passionate about **computational biology, data science, and biotech innovation**
 - Preparing for a **career in biotech + healthcare innovation**  
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/mayankgandhi0713) | [Gmail] (135.mayankgandhi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mayankgandhi0713) | [Gmail](135.mayankgandhi@gmail.com)
 
